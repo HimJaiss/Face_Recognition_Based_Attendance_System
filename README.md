@@ -1,6 +1,6 @@
 **Face Recognition Based Attendance System**
 
-A Python-based attendance management system that uses face recognition technology to automatically identify individuals and record their attendance. This project was developed as part of a BCA academic project.
+A Python-based attendance management system that uses face recognition technology to automatically identify individuals and record their attendance. The project was independently developed, and I am actively working on new projects to expand and improve this system.
 
 🧠 **Overview**
 
